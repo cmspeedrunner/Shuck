@@ -1,3 +1,4 @@
+# Shuck
 Shuck is a lightweight command-line utility that provides various functionalities.<br>
 
 ## Basic Usage
@@ -7,7 +8,7 @@ All commands are prefixed with shuck when executed.
 shuck <command> [arguments]
 ```
 
-🛠 Available Commands
+Available Commands
 |Command|	Description|
 |----|-------------|
 |help|	Displays all available Shuck commands.|
